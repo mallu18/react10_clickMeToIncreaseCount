@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.container {
+  background-color: aquamarine;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.count {
+  color: #c20a72;
+}
+
+.button {
+  background-color: #007bff;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  border-width: none;
+  outline: none;
+  color: #ffffff;
+  font-size: 15px;
+}
